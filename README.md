@@ -177,7 +177,6 @@ Signal-controlled intersections: `Central_Junction`, `North_Station`, `East_Mark
 git clone https://github.com/usmanaliclouds-jpg/SmartCity-Traffic-AI.git
 ```
 
-> Replace `your-username` with your actual GitHub username before sharing.
 
 ---
 
