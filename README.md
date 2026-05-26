@@ -99,7 +99,7 @@ pip install matplotlib numpy
 ### Option 1 — Clone from GitHub
 
 ```bash
-git clone https://github.com/your-username/smart-city-ai.git
+git clone https://github.com/usmanaliclouds-jpg/SmartCity-Traffic-AI.git
 cd smart-city-ai
 ```
 
@@ -174,7 +174,7 @@ Signal-controlled intersections: `Central_Junction`, `North_Station`, `East_Mark
 ## 📦 Repository
 
 ```bash
-git clone https://github.com/your-username/smart-city-ai.git
+git clone https://github.com/usmanaliclouds-jpg/SmartCity-Traffic-AI.git
 ```
 
 > Replace `your-username` with your actual GitHub username before sharing.
